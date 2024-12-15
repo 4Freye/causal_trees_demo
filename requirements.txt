@@ -1,0 +1,7 @@
+# Project Dependencies
+seaborn==0.12.2
+scikit-learn>=1.5
+rpy2==3.5.8
+econml==0.15.1
+numpy # Just install based on requirements of other packages.
+ipykernel

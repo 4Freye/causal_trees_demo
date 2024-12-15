@@ -1,4 +1,4 @@
-# Causal Forest Presentation Project
+# Causal trees demo
 
 ## Prerequisites
 

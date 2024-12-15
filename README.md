@@ -72,3 +72,4 @@ pip install -r requirements.txt
 **Tip:**
 
 - If `.venv` does not appear as an option, you may need to close the Visual Studio Code window and reopen it after installing the virtual environment.
+

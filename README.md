@@ -8,8 +8,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/4Freye/causal_trees_demo.git
+cd causal_trees_demo
 ```
 
 ### 2. Create a Virtual Environment
